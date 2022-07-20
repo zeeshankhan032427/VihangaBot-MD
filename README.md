@@ -13,7 +13,7 @@
 
   <p align="center">
 
-<img src="https://telegra.ph/file/1a0137d2065a822e65f92.jpg" alt="GIF" width="300" height="270"/>
+<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
 
 </p>
 
