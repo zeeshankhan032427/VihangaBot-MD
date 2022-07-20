@@ -36,13 +36,8 @@
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-5. Click the url showing below to copy deploy template and deploy.
+5. Then Click [DEPLOY] Button To Enjoy My Bot.(https://heroku.com/deploy)
 
-```
-
-https://heroku.com/deploy?template=https://github.com/vihangayt0/VihangaBot-MD
-
-``` 
 
 # Owner:
 Vihanga YT
@@ -51,5 +46,3 @@ Vihanga YT
 MR.NIMA
 
 EDM-OFFICIAL
-
-https://heroku.com/deploy
