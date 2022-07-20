@@ -25,18 +25,8 @@
 
 </div>
 
-<p align="center">𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 𝙳𝙰𝚁𝙲𝙺 𝙰𝙻𝙿𝙷𝙰 𝚇𝚃𝙴𝙰𝙼<br>| © | Reserved  </br> 
+<p align="center">By Vihanga YT>| © | Reserved  </br> 
 
-</p>
-
-  <p align="center"><a href="https://github.com/darkalphaxteam/Queen-Bixby-MD-Pro/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
-
-<br>
-
-
-
-
-<br>
 
 1. Click [SCAN](https://replit.com/@darkalphaxteam/Queen-Bixby-MD-Pro?v=1?outputonly=1&lite=1#index.js)) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
