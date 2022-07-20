@@ -19,7 +19,7 @@
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/darkalpha-xteam-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
