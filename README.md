@@ -52,5 +52,4 @@ MR.NIMA
 
 EDM-OFFICIAL
 
-
-https://github.com/nexusNw/Gojo-Satoru/fork
+https://heroku.com/deploy
