@@ -30,28 +30,23 @@
 
 1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. You will get a long text that needs after 4th step (session.json).
+2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD)
+
+2. After That Upload Session.json File
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-4. Click [FORK](https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW/fork)
-
-5. Click the url showing below to copy deploy template
+5. Click the url showing below to copy deploy template and deploy.
 
 ```
 
-https://heroku.com/deploy?template=https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW
+https://heroku.com/deploy?template=https://github.com/vihangayt0/VihangaBot-MD
 
 ``` 
 
-6. Now change `darkalphaxteam´ with your github username and click ENJOY<br>
+# Owner:
+Vihanga YT
 
-   <br>
-
-# Contact for help:
-
-   * Click [Contact](https://wa.me/94711421243) Here For Contact
-
-      </br> <p/>
-
-      <br>   <p align="center">💻 SPECIAL THANKS FOR NIMA,AFX-ABU AND IMASH 💻
+# Thanks To:
+MR.NIMA
+EDM-OFFICIAL
