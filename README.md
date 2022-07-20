@@ -40,7 +40,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`]
+* [`Vihanga-YT`](https://github.com/vihangayt0)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
