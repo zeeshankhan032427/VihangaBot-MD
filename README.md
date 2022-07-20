@@ -39,10 +39,13 @@
 5. Then Click [DEPLOY] Button To Enjoy My Bot.(https://heroku.com/deploy)
 
 
-# Owner:
+## Owner:
 Vihanga YT
 
-# Thanks To:
-MR.NIMA
-
-EDM-OFFICIAL
+## Thanks To
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`Alien-Alfa`](https://github.com/Alien-Alfa)
+* [`DGXeon`](https://github.com/DGXeon)
+* [`AflahXrd`](https://github.com/nexusNw)
+* [`MR.Nima`](https://github.com/DarkMakerofc)
+* [`EDM-OFFICIAL`](https://github.com/edm-official)
